@@ -1,3 +1,10 @@
+Code Editor For Linux Systems Based Off Kilo Ide made by antirez at his own github page
+
+<img width="1920" height="1080" alt="20260918_19h37m08s_grim" src="https://github.com/user-attachments/assets/bbba350f-1e07-44e1-850e-d609a113fcee" />
+
+THIS IS A BEGINNER PROJECT!!!! IM NOT GOOD ENOUGH TO MAKE ACTUAL TERMINAL APPS IF YOU SEE ERRORS PLEASE TELL ME HOW TO FIX IT
+
+
 To Use do neo filename.txt .py .c anything
 
 Installation 
