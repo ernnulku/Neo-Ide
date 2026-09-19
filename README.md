@@ -9,7 +9,7 @@ To Use do neo filename.txt .py .c anything
 
 Installation 
 
-[eren@void-btw ~]$ git clone [https://github.com/er9n2/neo-ide.git](https://github.com/ernnulku/Neo-Text-Editor.git)
+git clone https://github.com/ernnulku/Neo-Text-Editor.git
 
 [eren@void-btw ~]$ cd neo-ide/
 
